@@ -93,12 +93,14 @@ h1{
  }    
                   /* Feature text */
 .cntr i+h3{
-    font-weight:600;
-    color:rgb(1, 13, 78)
+    font-weight:bolder;
+    color:rgb(1, 13, 78);
+    font-size:1.5rem;
 }
 .cntr i~p{
     color:#8f8f8f;
     font-weight:lighter;
+    font-size:1.2rem;
 }
 
 
