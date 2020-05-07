@@ -1,0 +1,146 @@
+*{
+    font-family:'Montserrat';
+    font-weight:600;
+}
+
+
+
+#title{
+    background-color:#ff4c68 ;
+    color: whitesmoke;
+}
+
+.container-fluid{
+    padding: 3% 15% 3% 15%;
+}
+
+
+h1{
+    font-family: 'Montserrat';
+    font-size: 3.5rem;
+    font-weight:900;
+   
+    line-height: 1.5;
+}
+
+
+
+        /* Nav bar Section */
+
+
+.navbar {                             
+    padding:0 0 4.5rem;           /*  for space between navbar and heading */    
+}
+
+.navbar-brand{
+    font-family: Ubuntu;
+    font-size:2.5rem;
+    font-weight: bold;
+
+}
+.nav-item{
+    padding:0 18px; /* space between  nav item */
+} 
+
+.nav-link{
+    font-size:1.2rem;
+    font-family: 'Montserrat-thin';
+
+}
+
+
+/* Downlod Button */
+
+.donload-button{
+    margin:5% 3% 5% 0%
+}
+
+
+/* title-image  for iphone image */
+.title-image {
+   width:60%;
+   transform:rotate(25deg);
+
+}
+
+
+
+/*   Features  */
+#features{
+    padding: 7% 9%;
+   
+      
+}
+
+
+.cntr{
+    text-align:center;
+    padding:3.6%;
+   
+     
+}
+   
+
+
+                  /* Feature icon */
+.icon{
+     color:#ee8b9a;
+     margin:1rem ;
+    
+ }
+ .icon:hover{
+     color:rgb(255, 0, 0)
+ }    
+                  /* Feature text */
+.cntr i+h3{
+    font-weight:600;
+    color:rgb(1, 13, 78)
+}
+.cntr i~p{
+    color:#8f8f8f;
+    font-weight:lighter;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* vertical line */
+
+ .vl1 {
+     
+    border-left: 20px solid white;
+    height: 500px;
+    position: absolute;
+    left: 5px;
+    margin:-10px 0 0 -3px;
+    padding:0;
+    top: 0; 
+    transform:rotate(25deg)
+  }
+  
+  
+  
+  .vl2 {
+    border-left: 20px solid white;
+    height: 500px;
+    position: absolute;
+    left: 45%;
+    margin-left: -3px;
+    top: 0;
+    transform:rotate(25deg)
+    
+  }
+
+
