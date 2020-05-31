@@ -151,8 +151,28 @@ h1{
     margin:20px 20px 30px;
 }
 
+   /* Pricing  section  */
+#pricing{
+  text-align:center ;
+  padding:100px;
 
+}
 
+#pricing p {
+    font-weight:300;
+}
+.pricing-col{
+    padding:3% 2%;
+}
+
+#pricing  h2 span{
+    font-weight:900;
+}
+
+#pricing  h3 {
+    font-weight:600;
+    color:red;
+}
 
 
 
